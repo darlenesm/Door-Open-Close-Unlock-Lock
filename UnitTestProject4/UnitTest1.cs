@@ -16,5 +16,17 @@ namespace UnitTestProject4
         {
             Assert.Fail();
         }
+
+        [TestMethod]
+        public void DoorUnlockToUnlock()
+        {
+            Assert.Fail();
+        }
+
+        [TestMethod]
+        public void DoorLockToLock()
+        {
+            Assert.Fail();
+        }
     }
 }
